@@ -9,8 +9,6 @@
 ### General Info
 ***
 Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 ## Technologies
 ***
 A list of technologies used within the project:
