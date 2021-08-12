@@ -1,1 +1,7 @@
-
+{
+	"name": "CrazySprinklers",
+	"version": "2.0.0",
+	"description": "These are the wackiest, zaniest, craziest sprinklers you will ever use! I can't get them to work the way I want them too, ever!",
+	"category": "other",
+	"platforms": [ "cypress", "cyw954907aeval1f" ]
+}
